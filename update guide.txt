@@ -1,0 +1,4 @@
+Login to cPanel and go to file manager
+Upload 'update.zip' file to your hosting public_html directory
+extract 'update.zip' file and overwrite all.
+Done
